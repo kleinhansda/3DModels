@@ -9,12 +9,12 @@
 
 ## Wells and Stamps
 
-- stamps ('.stl' or '.3mf')
-  + lateral mounting stamp
-  + dorsal mounting stamp
-- single µ-wells ('.3mf' only)
-  + lateral
-  + dorsal
+1. Stamps (lateral and dorsal mounting) are provided as '.stl' and '.3mf'.
+2. Single (lateral and dorsal) µ-wells are provided as '.3mf' only
+
+## File formats
+
+[.stl](https://en.wikipedia.org/wiki/STL_(file_format)) is a file format native to stereolithography CAD
 
 ## Request
 

@@ -1,9 +1,14 @@
 # Zebrafish mounting stamp
 
 <center>
-<img width="20%" border="5" src="https://github.com/KleinhansDa/3DModels/blob/master/v4_B_300.gif?raw=true"/>
-<img width="75%" border="5" src="https://github.com/KleinhansDa/3DModels/blob/master/v4_B_fig1.jpg?raw=true"/>
+<img width="20%" border="5" src="/v4_B_300.gif?raw=true"/>
+<img width="75%" border="5" src="/v4_B_fig1.jpg?raw=true"/>
 </center>
+
+<p float="left">
+  <img src="/v4_B_300.gif?raw=true" width="100" />
+  <img src="/v4_B_fig1.jpg?raw=true" width="100" /> 
+</p>
 
 # Description
 

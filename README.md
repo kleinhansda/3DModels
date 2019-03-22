@@ -7,11 +7,11 @@
 
 # Description
 
-## File formats
-
-Models are provided as '.3mf' and '.stl'
-
 ## Wells and Stamps
 
-- Download the 'stamp' model with micro-wells arranged on a circular base, 
-- or download the 'single-well' model to arrange it in a different way.
+- stamps ('.stl' or '.3mf')
+  + lateral mounting stamp
+  + dorsal mounting stamp
+- single µ-wells ('.3mf' only)
+  + lateral
+  + dorsal

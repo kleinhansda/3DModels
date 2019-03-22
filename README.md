@@ -15,3 +15,7 @@
 - single µ-wells ('.3mf' only)
   + lateral
   + dorsal
+
+## Request
+
+The stamps are also available upon request @ [Gothe University repository](http://innovectis.de/technologien/goethe-depository/3d-printed-stamp-for-standardized-mounting-and-high-content-confocal-imaging-of-zebrafish-embryos/

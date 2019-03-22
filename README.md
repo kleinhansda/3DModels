@@ -1,8 +1,8 @@
 # Zebrafish mounting stamp
 
 <p float="left">
-  <img src="/v4_B_300.gif?raw=true" width=30% />
-  <img src="/v4_B_fig1.jpg?raw=true" width=55% /> 
+  <img src="/v4_B_300.gif?raw=true" border="5" width=30% />
+  <img src="/v4_B_fig1.jpg?raw=true" border="5" width=55% /> 
 </p>
 
 # Description

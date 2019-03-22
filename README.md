@@ -7,7 +7,7 @@
 
 # Description
 
-## Wells and Stamps
+## Wells and stamps
 
 - Stamps (lateral and dorsal mounting) are provided as '.stl' and '.3mf'
 - Single (lateral and dorsal) µ-wells are provided as '.3mf' only
@@ -17,6 +17,6 @@
 - ['.stl'](https://en.wikipedia.org/wiki/STL_(file_format)) is the format native to stereolithography CAD
 - ['.3mf'](https://en.wikipedia.org/wiki/3D_Manufacturing_Format) is the format standard in which the files had been created using MS 3D Builder.
 
-## Request
+# Request
 
 The stamps are also available upon request [@Gothe University repository](http://innovectis.de/technologien/goethe-depository/3d-printed-stamp-for-standardized-mounting-and-high-content-confocal-imaging-of-zebrafish-embryos/)

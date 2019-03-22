@@ -9,7 +9,7 @@
 
 ## Wells and Stamps
 
-- Stamps (lateral and dorsal mounting) are provided as '.stl' and '.3mf'.
+- Stamps (lateral and dorsal mounting) are provided as '.stl' and '.3mf'
 - Single (lateral and dorsal) µ-wells are provided as '.3mf' only
 
 ## File formats

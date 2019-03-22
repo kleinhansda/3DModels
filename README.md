@@ -2,7 +2,7 @@
 
 <p float="centre">
   <img src="/v4_B_300.gif?raw=true" width=30% />
-  <img src="/v4_B_fig1.jpg?raw=true" width=57% /> 
+  <img src="/v4_B_fig1.jpg?raw=true" width=56% /> 
 </p>
 
 # Description

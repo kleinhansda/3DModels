@@ -6,8 +6,8 @@
 </center>
 
 <p float="left">
-  <img src="/v4_B_300.gif?raw=true" width="100" />
-  <img src="/v4_B_fig1.jpg?raw=true" width="100" /> 
+  <img src="/v4_B_300.gif?raw=true" width=20% />
+  <img src="/v4_B_fig1.jpg?raw=true" width=70% /> 
 </p>
 
 # Description

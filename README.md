@@ -1,5 +1,9 @@
 # Zebrafish mounting stamp
 
+<center>
+<img width="20%" border="5" src="https://github.com/KleinhansDa/3DModels/blob/master/v4_B_300.gif?raw=true"/>
+<img width="75%" border="5" src="https://github.com/KleinhansDa/3DModels/blob/master/v4_B_300.gif?raw=true"/>
+</center>
 ![](https://github.com/KleinhansDa/3DModels/blob/master/v4_B_300.gif?raw=true)
 ![](https://github.com/KleinhansDa/3DModels/blob/master/Fig1.png?raw=true)
 
@@ -7,7 +11,7 @@
 
 ## File formats
 
-Models provided as '.3mf' and '.stl'
+Models are provided as '.3mf' and '.stl'
 
 ## Wells and Stamps
 
